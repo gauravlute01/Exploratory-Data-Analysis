@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-### In this repository for analysis doing the some technique is use to identify my data story.
+By following these techniques, you can uncover hidden stories within your data and communicate your findings effectively. Remember, a great data story is not just about the data itself; it's about the insights it reveals and the impact it can have.
